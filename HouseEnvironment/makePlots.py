@@ -23,4 +23,4 @@ for i in range(50):
 
 fig = plt.figure(figsize=figsize)
 plt.plot(time,temp)
-plt.savefig('HouseEnvironments/Plots/temperature.jpg')
+plt.savefig('HouseEnvironment/Plots/temperature.jpg')
